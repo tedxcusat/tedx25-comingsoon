@@ -45,9 +45,9 @@ export default function Home() {
       </div>
 
       {/* 4. Bottom Countdown Timer */}
-      <div className="absolute bottom-12 z-20">
+      {/* <div className="absolute bottom-12 z-20">
         <Countdown targetDate={TARGET_DATE} />
-      </div>
+      </div> */}
 
     </main>
   );
