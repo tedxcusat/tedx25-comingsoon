@@ -28,10 +28,10 @@ export const metadata: Metadata = {
     url: "https://tedxcusat.in",
     siteName: "TEDxCUSAT",
     title: "TEDxCUSAT - Coming Soon | Beyond Five: The Sixth Chapter",
-    description: "TEDxCUSAT 6th Edition - Beyond Five: The Sixth Chapter. Join us for an inspiring event featuring innovative ideas worth spreading.",
+    description: "TEDxCUSAT - Beyond Five: The Sixth Chapter. Join us for an inspiring event featuring innovative ideas worth spreading.",
     images: [
       {
-        url: "/logo-white.png",
+        url: "/cover.jpg",
         width: 1200,
         height: 630,
         alt: "TEDxCUSAT Logo",
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "TEDxCUSAT - Coming Soon | Beyond Five: The Sixth Chapter",
-    description: "TEDxCUSAT 6th Edition - Beyond Five: The Sixth Chapter. Join us for an inspiring event featuring innovative ideas worth spreading.",
-    images: ["/logo-white.png"],
+    description: "TEDxCUSAT - Beyond Five: The Sixth Chapter. Join us for an inspiring event featuring innovative ideas worth spreading.",
+    images: ["/cover.jpg"],
     creator: "@TEDxCUSAT",
   },
   viewport: {
